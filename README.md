@@ -37,17 +37,65 @@ Waterfall: Risks are identified and managed mainly at the end of the project.
 Agile: Risks are managed continuously with regular iterations and feedback.
 
 **Advantages of Waterfall Methodology**
-Clear Structure: The linear approach provides a clear and straightforward process, making it easy to understand and manage.
-Defined Requirements: Requirements are gathered and fixed early in the project, reducing the likelihood of scope changes.
-Easy to Manage: With well-defined phases and milestones, tracking progress and managing the project is more straightforward.
+1. Clear Structure: The linear approach provides a clear and straightforward process, making it easy to understand and manage.
+2. Defined Requirements: Requirements are gathered and fixed early in the project, reducing the likelihood of scope changes.
+3. Easy to Manage: With well-defined phases and milestones, tracking progress and managing the project is more straightforward.
 
 **Disadvantages of Waterfall Methodology**
-
+1. Scope Creep: The flexibility can lead to scope creep if changes are not managed carefully, potentially causing project delays.
+2. Requires Strong Collaboration: Agile relies heavily on continuous communication and collaboration, which can be challenging in distributed teams.
+3. Less Predictable: Due to its iterative nature, it can be harder to predict the final project cost and timeline.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+1. Agile is ideal for projects where requirements are likely to change, collaboration is key, and early delivery of working increments is beneficial. It excels in dynamic environments and innovative fields. E.g. Building a software product in the field of artificial intelligence or machine learning. Agile can accommodate the frequent advancements and changes in technology and research findings.
+2. Waterfall is best for projects with stable requirements, clear deliverables, and fixed budgets. It works well in environments where changes are costly or impractical, and where extensive documentation and structured planning are essential. E.g. Building a physical infrastructure project like a bridge or a highway. The requirements and specifications are clearly defined from the start, and changes are costly and disruptive.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+**1. Requirements Analysis:**
+Detailed Requirements Gathering: Clearly define and document requirements to ensure that all stakeholders have a shared understanding.
+Requirements Review: Regularly review and validate requirements to catch ambiguities or inconsistencies early.
+
+**2. Design Reviews:**
+Design Inspection: Conduct reviews of design documents to ensure they meet the requirements and are feasible.
+Peer Reviews: Have team members review design choices to identify potential issues before development begins.
+
+**3. Automated Testing:**
+Unit Testing: Write automated tests for individual components or functions to ensure they work as intended.
+Integration Testing: Test how different components interact with each other to identify issues in the integration points.
+
+4. **Test-Driven Development (TDD):**
+Write Tests First: Develop test cases before writing the actual code to ensure that the software meets the requirements from the start.
+
+5. **Code Reviews:**
+Peer Code Reviews: Regularly review code with peers to identify issues, improve code quality, and ensure adherence to coding standards.
+
+6. **User Acceptance Testing (UAT):**
+End-User Testing: Have actual users test the application to ensure it meets their needs and expectations before release.
+
+**Importance of maintaining high standard**
+1. User Satisfaction:
+Reliability and Usability: High-quality software meets user expectations and provides a reliable, smooth user experience, leading to greater satisfaction and loyalty.
+2. Cost Efficiency:
+Reducing Defects: Catching defects early in the development process prevents costly fixes later and avoids the expense of post-release bug fixes.
+3. Risk Mitigation:
+Preventing Failures: Thorough testing and quality assurance help mitigate the risk of software failures that could impact business operations or reputation.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+**How defining project scope contributes to successful project planning:**
+1. Clarifies Objectives: Defining the scope helps in outlining the project’s goals, deliverables, and requirements. This ensures that everyone involved has a clear understanding of what the project aims to achieve, which aligns the team’s efforts and avoids misunderstandings.
+2. Prevents Scope Creep: By establishing what is included in the project, you can manage and control changes to the scope. This helps in preventing scope creep, where uncontrolled changes or additions can derail the project timeline and budget.
+3. Facilitates Resource Allocation: A well-defined scope helps in accurately estimating the resources (time, money, personnel) needed. This makes it easier to allocate resources efficiently and avoid overcommitting or under-resourcing.
+   
+**Work Breakdown Structure:** is a hierarchical decomposition of the project into smaller, more manageable components. It breaks down the entire project into work packages, which are further divided into tasks and subtasks.
+
+**Why it is useful**
+1. Organizes Work: The WBS provides a structured view of the project, breaking it down into manageable sections. This organization makes it easier to understand the scope and track progress.
+2. Facilitates Planning and Scheduling: By decomposing the project into smaller tasks, the WBS helps in detailed planning and scheduling. You can estimate the time and resources required for each task, which improves the accuracy of the overall project plan.
+3. Assign Responsibility: Each component of the WBS can be assigned to specific team members or groups. This clear assignment of responsibilities helps ensure that all aspects of the project are covered and that accountability is established.
+ 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
